@@ -1,0 +1,25 @@
+abc{
+    display:block;
+
+}
+li{
+    border:solid 3px;
+    float:left;
+    background-color: black;
+    border-radius: 10px;
+    font-size:45px;
+    color: aliceblue;
+    height:80px;
+    width:700px;
+    margin-top: 15px;
+    text-align: center;
+}
+li a{
+    color:aliceblue;
+    text-decoration: none;
+}
+ul a:hover{
+    background-color:blueviolet;
+    transition: 0.5s;
+    text-transform: uppercase;
+}
